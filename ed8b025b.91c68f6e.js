@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{81:function(a){a.exports=JSON.parse('{"allTagsPath":"/fairapi/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/fairapi/blog/tags/hello"}')}}]);
