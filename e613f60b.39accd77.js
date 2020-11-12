@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{80:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/fairapi/blog/welcome"},{"title":"Hello","permalink":"/fairapi/blog/hello-world"},{"title":"Hola","permalink":"/fairapi/blog/hola"}]}')}}]);
